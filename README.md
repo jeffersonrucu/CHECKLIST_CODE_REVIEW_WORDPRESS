@@ -1,0 +1,2 @@
+# CHECKLIST_CODE_REVIEW_WORDPRESS
+Basic checklist Wordpress
